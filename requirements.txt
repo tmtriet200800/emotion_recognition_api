@@ -19,7 +19,7 @@ opencv-python==4.1.0.25
 p==0.0.0
 pandas==0.19.1
 Pillow==7.0.0
-protobuf==3.11.2
+protobuf==3.18.3
 pyparsing==2.4.6
 python-dateutil==2.8.1
 pytz==2019.3
